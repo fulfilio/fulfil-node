@@ -1,0 +1,22 @@
+{
+  "name": "fulfil-node",
+  "version": "0.0.1",
+  "description": "Node.js bindings for fulfil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fulfil"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "lodash": "^4.11.1",
+    "moment": "^2.15.0",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1"
+  },
+  "author": "Fulfil.IO",
+  "license": "BSD-2-Clause"
+}
