@@ -15,9 +15,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^2.0.0"
   },
-  "dependencies": {
-    "lodash": "^4.16.1"
-  },
+  "dependencies": {},
   "author": "Fulfil.IO",
   "license": "BSD-2-Clause"
 }
